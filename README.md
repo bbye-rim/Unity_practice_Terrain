@@ -1,1 +1,2 @@
-# Unity_practice_Terrain
+## Unity Terrain Project
+This is Bamsongi Game to practice Unity Terrain.
